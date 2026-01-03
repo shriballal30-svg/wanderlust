@@ -67,7 +67,7 @@ eg: trivy image redis   # It scan this image
 ### **7.1 SonarQube to Jenkins**
 ```
 go to → SonarQube → Administration → Configuration → Webhooks → create → name (any) → Jenkins_URL/sonarqube-webhook [eg (https://1.1.1.1:8080/sonarqube-webhook)] → create
-                                                                          ↓             ↓
+                                                                                       
 ```
 
 ### **7.2 Jenkins to SonarQube**
