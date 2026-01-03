@@ -179,4 +179,4 @@ sudo systemctl reboot
 
 ---
 
-**Note:** This document contains all the setup steps exactly as provided in your notes, organized in a clean, single-page format for easy reference.
+
